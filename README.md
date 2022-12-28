@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **DevOps, AWS, Google Cloud, Cyber Security**
 
-- 📄 Know about my experiences [shorturl.at/kly16](shorturl.at/kly16)
+- 📄 Know about my experiences [here](https://shorturl.at/kly16)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
