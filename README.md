@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/siddykey" target="blank"><img src="https://img.shields.io/twitter/follow/siddykey?logo=twitter&style=for-the-badge" alt="siddykey" /></a> </p>
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **Next.js** **Ansible** **Kubernetes**
 
 - 💬 Ask me about **DevOps, Ethical Hacking**
 
